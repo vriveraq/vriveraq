@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning about gender analytics and networking
 - 💬 Ask me about Data Science, AI, mentoring, and technical traning. 
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Connect with me on LinkedIn](https://www.linkedin.com/in/vriveraq) 
-- 😄 Pronouns: she|her|ella
+- 😄 Pronouns: she/her/ella
