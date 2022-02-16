@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vriveraq](https://github.com/vriveraq/README.md)
+
+
 <!--
 **vriveraq/vriveraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
