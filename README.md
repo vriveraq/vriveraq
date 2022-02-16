@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vriveraq](https://github.com/anuraghazra/github-readme-stats)
+[![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vriveraq)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
