@@ -4,5 +4,5 @@
 - 🚀 I'm currently and AI Coach at [BeCode.org](www.becode.org)
 - 🌱 I’m currently learning about gender analytics and networking
 - 💬 Ask me about Data Science, AI, mentoring, and technical traning
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Connect with me on LinkedIn](https://www.linkedin.com/in/vriveraq) 
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Let's connect!](https://www.linkedin.com/in/vriveraq) 
 - 😄 Pronouns: she/her/ella
