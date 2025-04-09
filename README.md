@@ -4,6 +4,6 @@
 - 🚀 I'm currently an AI Coach at [BeCode.org](www.becode.org)
 - 🌱 I’m currently learning about data engineering
 - 💬 Ask me about Data Science, AI, mentoring, and technical training
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Let's connect!](https://www.linkedin.com/in/vriveraq)
+-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Let's connect!](https://www.linkedin.com/in/vriveraq)
 - 🕸️ Website: [https://www.vriveraqphd.com/](https://www.vriveraqphd.com/)
 - 😄 Pronouns: she/they
